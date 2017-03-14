@@ -6,6 +6,7 @@
 #       defaultZone: http://localhost:8010/eureka   
       
 # Defined to clustered eureka
+---
 eureka:
   client:
     serviceUrl:
